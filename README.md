@@ -43,9 +43,4 @@ EDIT THIS SECTION
 |data_analysis.py |  Analysis - plotting and statistical tests    |  
 | report.md |  Findings, suggestions, and future work.
 
-***  
-<font color=green>**End of template**</font>  
-<br>
-<br>
-
 DO THIS (If you want to make it even more visually pleasing then you can use a website like [Canva](https://www.canva.com/web-banners/templates/) to make banners for the top of your readme.  There are some free options.  )
