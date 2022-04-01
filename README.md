@@ -32,7 +32,7 @@ conda install pandas
 ```  
 <br>
 
-## Additional Analysis 
+## Analysis and Conclusions
 An analysis was conducted to determine student outcomes in terms of math and reading scores, based on several factors, including school size, type, and per student budget. The following conclusions were drawn from the data:
 <ul>
   <li>Per student budget was, surprisingly negatively correlated with overall student success </li>
