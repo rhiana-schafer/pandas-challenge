@@ -9,10 +9,6 @@ This project performs analysis on district-wide standardized test results, using
 PANDAS
 <br>
 
-## Technologies
-Python, PANDAS
-<br>
-
 ## Data Source
 
 Data found in:
