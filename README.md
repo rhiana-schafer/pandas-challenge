@@ -12,8 +12,10 @@ PANDAS
 ## Data Source
 
 Data found in:
-pandas-challenge/PyCitySchools/Resources/students_complete.csv  
-pandas-challenge/PyCitySchools/Resources/schools_complete.csv 
+<ul>
+<li>pandas-challenge/PyCitySchools/Resources/students_complete.csv  </li>
+<li>pandas-challenge/PyCitySchools/Resources/schools_complete.csv </li>
+  </ul>
 <br>
 
 ## Installation
