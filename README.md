@@ -35,7 +35,7 @@ conda install pandas
 ## Analysis and Conclusions
 An analysis was conducted to determine student outcomes in terms of math and reading scores, based on several factors, including school size, type, and per student budget. The following conclusions were drawn from the data:
 <ul>
-  <li>Per student budget was, surprisingly negatively correlated with overall student success </li>
+  <li>Per student budget was, surprisingly, negatively correlated with overall student success </li>
   <li>The data shows that students at larger schools struggled more academically than those at smaller schools </li>
   <li>An analysis of outcomes by school type showed that students fared better academically at Charter rather than District schools</li>
 </ul>
