@@ -39,8 +39,11 @@ An analysis was conducted to determine student outcomes in terms of math and rea
   <li>The data shows that students at larger schools struggled more academically than those at smaller schools </li>
   <li>An analysis of outcomes by school type showed that students fared better academically at Charter rather than District schools</li>
 </ul>
+
 ![Spend](https://user-images.githubusercontent.com/66378414/161293168-18ab5d14-6126-4cd3-ab16-f97e062e6529.PNG)
+
 ![size](https://user-images.githubusercontent.com/66378414/161293164-05ce6785-533f-465c-a597-bb538e482823.PNG)
+
 ![type](https://user-images.githubusercontent.com/66378414/161293166-643d75b3-36da-4867-b398-7e02b69ba68b.PNG)
 
 
